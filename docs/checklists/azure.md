@@ -1,0 +1,7 @@
+- [ ] Resource Group criado
+- [ ] VNet dedicada
+- [ ] Subnets separadas
+- [ ] Private Endpoints configurados
+- [ ] DNS privado funcional
+- [ ] Tags aplicadas
+- [ ] Custos estimados

@@ -1,0 +1,6 @@
+- [ ] Provider instalado
+- [ ] ProviderConfig válido
+- [ ] Secrets referenciados (não hardcoded)
+- [ ] Managed Resources completos
+- [ ] Ordem lógica respeitada
+- [ ] Evolução para XRD prevista

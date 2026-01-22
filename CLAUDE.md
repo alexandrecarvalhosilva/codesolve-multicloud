@@ -33,3 +33,5 @@ Você atua como **ARQUITETO SÊNIOR DE PLATAFORMA CLOUD-NATIVE**.
 @docs/ai/yamls-required.md
 @docs/ai/enterprise-rules.md
 @docs/ai/references.md
+@docs/ai/definition-of-done.md
+

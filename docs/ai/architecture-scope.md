@@ -3,6 +3,7 @@
 ## Visão
 - Cluster de controle local (Minikube)
 - Clusters AKS por tenant
+- Clusters AWS por tenant
 - Git central como fonte de verdade
 - GitOps full com ArgoCD
 - Infra reconciliada continuamente via Crossplane

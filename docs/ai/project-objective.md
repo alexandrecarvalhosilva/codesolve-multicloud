@@ -1,6 +1,6 @@
 # Objetivo do Projeto
 
-Criar uma plataforma “caixinha” multi-tenant onde cada cliente recebe uma stack Kubernetes completa e isolada na Azure.
+Criar uma plataforma “CODESOLVE - MULTI-CLOUD” multi-tenant onde cada cliente recebe uma stack Kubernetes completa e isolada nas pincipais Clauds. (Azure, AWS e GCP)
 
 Características:
 - Control Plane local com Minikube

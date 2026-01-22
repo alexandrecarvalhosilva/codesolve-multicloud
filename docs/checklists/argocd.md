@@ -1,0 +1,5 @@
+- [ ] ArgoCD instalado
+- [ ] Cluster(s) registrados
+- [ ] Application/ApplicationSet definidos
+- [ ] AppProjects criados
+- [ ] Git como fonte única

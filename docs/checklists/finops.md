@@ -1,0 +1,4 @@
+- [ ] Requests/Limits definidos
+- [ ] Autoscaler ativo
+- [ ] Tags de custo
+- [ ] Responsável definido

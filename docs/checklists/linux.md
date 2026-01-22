@@ -1,0 +1,5 @@
+- [ ] Distribuição suportada
+- [ ] Kernel compatível
+- [ ] SELinux enforcing
+- [ ] Firewall ativo
+- [ ] Ajustes sysctl documentados

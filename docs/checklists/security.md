@@ -1,0 +1,4 @@
+- [ ] RBAC mínimo
+- [ ] NetworkPolicies
+- [ ] Secrets seguros
+- [ ] Auditoria habilitada

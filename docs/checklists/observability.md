@@ -1,0 +1,4 @@
+- [ ] Prometheus coletando
+- [ ] Logs centralizados
+- [ ] Dashboards criados
+- [ ] Alertas críticos ativos

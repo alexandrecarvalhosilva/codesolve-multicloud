@@ -1,0 +1,5 @@
+- [ ] Tekton instalado
+- [ ] Pipelines declaradas
+- [ ] Build imutável
+- [ ] Push validado
+- [ ] Sem kubectl apply
