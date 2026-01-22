@@ -1,0 +1,6 @@
+- [ ] Tenant contract único
+- [ ] XRD única
+- [ ] Compositions separadas
+- [ ] Nenhum YAML específico fora da Composition
+- [ ] CI/CD agnóstico
+- [ ] GitOps consistente

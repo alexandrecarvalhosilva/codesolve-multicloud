@@ -1,0 +1,8 @@
+- [ ] VPC criada
+- [ ] Subnets públicas e privadas
+- [ ] NAT Gateway configurado
+- [ ] EKS provisionado
+- [ ] Node Groups separados
+- [ ] ECR criado
+- [ ] RDS privado
+- [ ] Tags de custo aplicadas
